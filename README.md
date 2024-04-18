@@ -1,6 +1,6 @@
-[<img src="https://i.ibb.co/CBBJS1J/zagrodzki-me-banner.png" alt="zagrodzki.me banner" width="100%"/>](https://zagrodzki.me)
+[<img src="https://i.ibb.co/CBBJS1J/zagrodzki-me-banner.png" alt="zagrodzki.me banner" width="100%"/>](https://thatstraw.me)
 
-<h4 align="center">zagrodzki.me - my personal website</h4>
+<h4 align="center">thatstraw.me - my personal website</h4>
 
 ## Project Overview 🎨
 
@@ -43,7 +43,7 @@ Please read [CONTRIBUTING.md](https://github.com/Bartek532/zagrodzki.me/blob/mai
 
 ```bash
 
-git clone https://github.com/Bartek532/zagrodzki.me.git
+git clone https://github.com/thatstraw/thatstraw.me.git
 
 pnpm install
 
@@ -56,4 +56,4 @@ pnpm dev
 
 ## Live 🎆
 
-https://zagrodzki.me
+https://thatstraw.me
